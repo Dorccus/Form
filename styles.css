@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(197, 236, 223);
+}
+
+input {
+    background-color: rgb(162, 228, 243);
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 24px;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(4, 50, 58);
+}
